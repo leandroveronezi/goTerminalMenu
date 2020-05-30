@@ -1,5 +1,7 @@
 package goTerminalMenu
 
+import goTerminal "github.com/leandroveronezi/go-terminal"
+
 type Options struct {
 	Label     string
 	Status    bool
