@@ -1,4 +1,4 @@
-module goTerminalMenu
+module github.com/leandroveronezi/goTerminalMenu
 
 go 1.13
 
