@@ -1,6 +1,6 @@
 github.com/eiannone/keyboard v0.0.0-20200508000154-caf4b762e807 h1:jdjd5e68T4R/j4PWxfZqcKY8KtT9oo8IPNVuV4bSXDQ=
 github.com/eiannone/keyboard v0.0.0-20200508000154-caf4b762e807/go.mod h1:Xoiu5VdKMvbRgHuY7+z64lhu/7lvax/22nzASF6GrO8=
-github.com/leandroveronezi/go-terminal v0.0.0-20190103125746-6d3a1c9af54a h1:LmWrc3zRdWZA/0O+r2JpMwaBCGL452cMOa3EHvAN41A=
-github.com/leandroveronezi/go-terminal v0.0.0-20190103125746-6d3a1c9af54a/go.mod h1:ePZmDfpwx5n2HMMufo1IpZppioBbmkpO2T7O9d6hGyY=
+github.com/leandroveronezi/go-terminal v1.3.2 h1:7K8tvvlFtWydVp0DT7XvayKWliI+H/KBGOObuCf+4VY=
+github.com/leandroveronezi/go-terminal v1.3.2/go.mod h1:ePZmDfpwx5n2HMMufo1IpZppioBbmkpO2T7O9d6hGyY=
 golang.org/x/sys v0.0.0-20200523222454-059865788121 h1:rITEj+UZHYC927n8GT97eC3zrpzXdb/voyeOuVKS46o=
 golang.org/x/sys v0.0.0-20200523222454-059865788121/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
